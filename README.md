@@ -1,1 +1,2 @@
-# ri_lab_05
+Laboratório 05- Expansão de Consultas
+Disciplina: Recuperação da Informação
